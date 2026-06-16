@@ -1,0 +1,45 @@
+h1 {
+    color: green;
+}
+p {
+    color: rgb(128, 235, 141);
+}
+button {
+    color: rgb(196, 232, 63);
+    background-color: white;
+}
+body {
+    background-color: #ffff00;
+}
+ {
+    color: blue;  }
+button {
+    color: brown;
+}
+
+ #headingOne {
+    color:yellow
+}
+#headingTwo {
+    color: bisque;
+}
+#one {
+    color: magenta;
+}
+#One {
+    background-color: bisque;
+}
+.headingOne {
+    color: red;
+}
+.heading2 {
+    color: red;
+}
+.heading3 {
+    color: red;
+}
+button {
+    color: green;
+}
+.button style {
+    color: blue; 
