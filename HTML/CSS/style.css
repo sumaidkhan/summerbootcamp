@@ -43,3 +43,6 @@ button {
 }
 .button style {
     color: blue; 
+p {
+    text-align: right;
+}
